@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalina-ut&label=Profile%20views&color=0e75b6&style=flat" alt="nalina-ut" /> </p>
 
 ---
-
+🌐 [View My Portfolio](https://nalina-ut.github.io/nalina-portfolio/)
 - 🔭 I’m currently working on **Developing modern and responsive websites**
 
 - 🌱 I’m currently learning **React.js and modern frontend technologies,Software engineering concepts and system development**
